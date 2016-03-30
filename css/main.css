@@ -1,0 +1,22 @@
+.image{
+
+	background-color:#0687ef;
+	min-height: 200px;
+}
+
+.title{
+	color:#0687ef;
+}
+
+.intropic{
+	max-height: 60px;
+}
+
+#coffeebutton{
+	background-color: transparent;
+	color:white;
+}
+ .logos{
+ 	min-height: 15px;
+ 	max-height: 40px;
+ }
