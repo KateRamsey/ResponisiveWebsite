@@ -1,6 +1,6 @@
 .image{
 
-	background-color:#0687ef;
+	background-color:white;
 	min-height: 200px;
 }
 
@@ -13,8 +13,8 @@
 }
 
 #coffeebutton{
-	background-color: transparent;
-	color:white;
+	background-color: lightblue;
+	color: black;
 
 }
  .logos{
